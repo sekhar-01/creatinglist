@@ -3,7 +3,7 @@ import './App.css';
 function Sim(props){
   return(
     <div>
-      <h1>my name is {props.oye}</h1>
+      <h1>my namftr {props.oye}</h1>
     </div>
   );
 }
